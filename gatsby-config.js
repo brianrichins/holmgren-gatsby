@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: '[Insert Site Title]',
+    title: 'The Corey Holmgren Memorial Fund',
     description:
-      '[Foundation Description goes here later]',
+      'There is sacredness in suffering',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

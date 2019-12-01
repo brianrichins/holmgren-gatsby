@@ -1,7 +1,7 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: 'directors-page'
+path: /directors
+title: Board of Directors
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-

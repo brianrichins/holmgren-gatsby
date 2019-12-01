@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Corey Holmgren Memorial Fund',
+    title: 'The Corey Holmgren Memorial Fund',
     description:
       'There is sacredness in suffering',
   },

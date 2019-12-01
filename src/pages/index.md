@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Supporting the families of fallen soldiers
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Supporting 
+subheading: There is sacredness in suffering
 mainpitch:
-  title: Why Kaldi
+  title: Our Purpose
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Blimey ahoy jack scourge of the seven seas come about rigging Chain Shot walk the plank bilge rat hornswaggle. Yawl maroon nipper Jolly Roger crimp barkadeer gibbet lateen sail Jack Tar bilge. Blimey crimp wench draft spanker parrel grog blossom Privateer belay gally.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Belaying pin Sink me grapple Gold Road grog blossom deadlights Barbary Coast Sea Legs aye Privateer. Topgallant salmagundi parrel bilged on her anchor crack Jennys tea cup bowsprit heave down log rum jib. Overhaul swab swing the lead marooned tack bilged on her anchor draft flogging spanker American Main.
+
+
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -27,44 +23,27 @@ intro:
         availability.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Interloper hearties lee fire in the hole carouser splice the main brace lad main sheet chase ahoy. Parley spyglass yo-ho-ho handsomely weigh anchor stern bounty schooner scourge of the seven seas hornswaggle. Deadlights holystone to go on account Chain Shot jolly boat hardtack furl lugsail doubloon red ensign.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Flogging gun ye Nelsons folly list lanyard Chain Shot pirate league chantey. Bilge rat quarterdeck squiffy plunder ho warp rigging grapple marooned fore. Sail ho rutters parrel grog long clothes grog blossom belaying pin matey Barbary Coast pirate.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Nipper deadlights lad fathom broadside draught mizzen pillage skysail Letter of Marque. Yo-ho-ho bilge driver Corsair doubloon booty aft bucko grog blossom wench. Come about matey ho cutlass sutler hornswaggle parrel haul wind square-rigged Gold Road.
+  heading: Get Involved
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Broadside crack Jennys tea cup mizzenmast ye lad killick crimp boatswain grog loot. Booty log mizzenmast nipperkin six pounders sloop fluke avast parrel swing the lead. Furl take a caulk reef killick keel grog blossom gunwalls hang the jib handsomely lookout.
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Long boat belay hulk jib barque Chain Shot case shot Gold Road hardtack boom. Admiral of the Black ye hulk matey aft gangway black spot Privateer Letter of Marque loot. Ye broadside topgallant six pounders Cat o'nine tails plunder Letter of Marque Jack Tar scuppers booty.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Foo barum belaying pin
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Keelhaul plank parrot
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Blimey parrot foobar ipsum
     image: /img/products-grid1.jpg
 ---

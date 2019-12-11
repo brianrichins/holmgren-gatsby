@@ -240,7 +240,7 @@
         "prefer-regex-literals": "error",
         "prefer-rest-params": "error",
         "prefer-spread": "error",
-        "prefer-template": "error",
+        "prefer-template": "warn",
         "quote-props": "off",
         "quotes": "off",
         "radix": "error",

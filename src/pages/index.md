@@ -10,11 +10,8 @@ mainpitch:
 description: ' '
 intro:
   blurbs:
-    - image: /img/corey-mindi.jpg
+    - image: /img/about-corey-image.png
       text: >
-        About Corey
-
-
         Corey Comish Holmgren was born and raised in Tremonton, UT. He graduated
         from Bear River High School in 2002 and loved being on the swim team and
         playing goalie for their water polo team. He spent 2 summers as a Boy

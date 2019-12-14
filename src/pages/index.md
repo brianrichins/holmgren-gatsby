@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ' '
-image: /img/corey-sacredness-in-suffering.jpg
+image: /img/there-is-sacredness-in-suffering.png
 heading: ' '
 subheading: ' '
 mainpitch:

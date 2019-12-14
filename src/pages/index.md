@@ -10,13 +10,15 @@ mainpitch:
 description: ' '
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/corey-mindi.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        About Corey
+
+
+        Corey Comish Holmgren was born and raised in Tremonton, UT. He graduated
+        from Bear River High School in 2002 and loved being on the swim team and
+        playing goalie for their water polo team. He spent 2 summers as a Boy
+        Scout counselor at Camp Loll near Yellowstone on the...
     - image: /img/coffee-gear.png
       text: >
         Interloper hearties lee fire in the hole carouser splice the main brace

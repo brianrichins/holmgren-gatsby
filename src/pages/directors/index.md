@@ -2,7 +2,7 @@
 templateKey: 'directors-page'
 path: /directors
 title: Board of Directors
-image: /img/jumbotron.jpg
+image: /img/bg-home.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Supporting the families of fallen soldiers
-image: /img/home-jumbotron.jpg
+image: /img/bg-home.jpg
 heading: Supporting 
 subheading: There is sacredness in suffering
 mainpitch:

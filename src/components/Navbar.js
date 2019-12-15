@@ -6,7 +6,7 @@ import useSiteMetadata from './SiteMetadata'
 const Navbar = ({ children }) => {
   const { title } = useSiteMetadata()
   const [navBarActiveClass, setActiveClass] = useState(false);
-  
+
   const toggleHamburger = () => {
     setActiveClass(navBarActiveClass ? '' : 'is-active')
   }
@@ -21,7 +21,6 @@ const Navbar = ({ children }) => {
         <div className="navbar-brand logo-font">
           <Link to="/" className="navbar-item" title="Logo">
             <img src={logo} alt={`Logo: ${title}`} style={{ paddingRight: '.5em' }} />
-            <span style={{fontSize:'1.5em'}}>{title}</span>
           </Link>
 
           <div
@@ -39,17 +38,11 @@ const Navbar = ({ children }) => {
           className={`navbar-menu ${navBarActiveClass}`}
         >
           <div className="navbar-start has-text-centered">
-            <Link className="navbar-item" to="/about">
-              About
-            </Link>
-            <Link className="navbar-item" to="/directors">
-              Directors
-            </Link>
             <Link className="navbar-item" to="/announcements">
               Announcements
             </Link>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
+            <Link className="navbar-item" to="/about">
+              About
             </Link>
             <Link className="navbar-item" to="/contact">
               Contact

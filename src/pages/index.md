@@ -2,14 +2,14 @@
 templateKey: index-page
 title: Supporting the families of fallen soldiers
 image: /img/bg-home.jpg
-heading: Supporting 
+heading: About Corey 
 subheading: There is sacredness in suffering
 mainpitch:
   title: Our Purpose
   description: >
-    Blimey ahoy jack scourge of the seven seas come about rigging Chain Shot walk the plank bilge rat hornswaggle. Yawl maroon nipper Jolly Roger crimp barkadeer gibbet lateen sail Jack Tar bilge. Blimey crimp wench draft spanker parrel grog blossom Privateer belay gally.
+    The Corey Holmgren Memorial fund was established to help provide support and counseling to military personnel and their families.
 description: >-
-  Belaying pin Sink me grapple Gold Road grog blossom deadlights Barbary Coast Sea Legs aye Privateer. Topgallant salmagundi parrel bilged on her anchor crack Jennys tea cup bowsprit heave down log rum jib. Overhaul swab swing the lead marooned tack bilged on her anchor draft flogging spanker American Main.
+  Corey Comish Holmgren was born and raised in Tremonton, UT. He graduated from Bear River High School in 2002 and loved being on the swim team and playing goalie for their water polo team. He spent 2 summers as a Boy Scout counselor at Camp Loll near Yellowstone on the...
 
 
 intro:
@@ -24,12 +24,6 @@ intro:
     - image: /img/coffee-gear.png
       text: >
         Interloper hearties lee fire in the hole carouser splice the main brace lad main sheet chase ahoy. Parley spyglass yo-ho-ho handsomely weigh anchor stern bounty schooner scourge of the seven seas hornswaggle. Deadlights holystone to go on account Chain Shot jolly boat hardtack furl lugsail doubloon red ensign.
-    - image: /img/tutorials.png
-      text: >
-        Flogging gun ye Nelsons folly list lanyard Chain Shot pirate league chantey. Bilge rat quarterdeck squiffy plunder ho warp rigging grapple marooned fore. Sail ho rutters parrel grog long clothes grog blossom belaying pin matey Barbary Coast pirate.
-    - image: /img/meeting-space.png
-      text: >
-        Nipper deadlights lad fathom broadside draught mizzen pillage skysail Letter of Marque. Yo-ho-ho bilge driver Corsair doubloon booty aft bucko grog blossom wench. Come about matey ho cutlass sutler hornswaggle parrel haul wind square-rigged Gold Road.
   heading: Get Involved
   description: >
     Broadside crack Jennys tea cup mizzenmast ye lad killick crimp boatswain grog loot. Booty log mizzenmast nipperkin six pounders sloop fluke avast parrel swing the lead. Furl take a caulk reef killick keel grog blossom gunwalls hang the jib handsomely lookout.

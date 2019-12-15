@@ -19,8 +19,8 @@ const Navbar = ({ children }) => {
     >
       <div className="container">
         <div className="navbar-brand logo-font">
-          <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt={`Logo: ${title}`} style={{ paddingRight: '.5em' }} />
+          <Link to="/" className="navbar-item" title="Logo" style={{ backgroundColor: 'white' }}>
+            <img src={logo} alt={`Logo: ${title}`} />
           </Link>
 
           <div

@@ -6,9 +6,8 @@ heading: About Corey
 subheading: ' '
 mainpitch:
   title: Our Purpose
-  description: >
-    The Corey Holmgren Memorial fund was established to help provide support and
-    counseling to military personnel and their families.
+  description: |+
+
 description: >-
   Corey Comish Holmgren was born and raised in Tremonton, UT. He graduated from
   Bear River High School in 2002 and loved being on the swim team and playing

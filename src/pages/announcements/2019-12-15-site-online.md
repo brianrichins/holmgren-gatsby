@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2019-12-15T15:04:10.000Z
+title: Site Online
+date: 2019-12-16T04:04:10.000Z
+description: Opening announcement for the Foundation.
 featuredpost: false
 featuredimage: /img/og-image.png
-description: Opening announcement for the Foundation.
 tags:
   - mindi
   - corey

@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: ' '
+title: The Corey Holmgren Memorial Fund
 image: /img/bg-home.jpg
 heading: Corey Holmgren Memorial Fund
-subheading: ' '
+subheading: There is sacredness in suffering
 mainpitch:
   title: Our Purpose
   description: |+

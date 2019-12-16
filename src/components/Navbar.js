@@ -13,7 +13,7 @@ const Navbar = ({ children }) => {
 
   return (
     <nav
-      className="navbar is-transparent"
+      className="navbar is-fixed-top is-transparent"
       role="navigation"
       aria-label="main-navigation"
     >

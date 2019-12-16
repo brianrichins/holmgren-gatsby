@@ -8,9 +8,8 @@ backend:
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
-media_folder: static/img/uploads
-media_folder_relative: true
-public_folder: /img/uploads
+media_folder: /img
+public_folder: /img
 
 collections:
   - name: "announcements"

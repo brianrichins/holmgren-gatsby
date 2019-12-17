@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: The Corey Holmgren Memorial Fund
-image: /img/bg-home.jpg
+title: ' '
+image: /img/corey-sacredness-in-suffering.jpg
 heading: Corey Holmgren Memorial Fund
-subheading: There is sacredness in suffering
+subheading: ' '
 mainpitch:
   title: Our Purpose
-  description: We support troops and their families by providing access to counseling
+  description: 'Providing opportunities for wellness of mind, body, and heart.'
 description: >-
   Corey Comish Holmgren was born and raised in Tremonton, UT. He graduated from
   Bear River High School in 2002 and loved being on the swim team and playing
